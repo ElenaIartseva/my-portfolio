@@ -6,7 +6,7 @@
 
 ## Link:
 
-https://elenaustimenko.github.io/my-portfolio/
+https://elenauiartseva.github.io/my-portfolio/
 
 ---
 

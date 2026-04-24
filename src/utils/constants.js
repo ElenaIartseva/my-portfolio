@@ -40,6 +40,8 @@ import calendar2 from 'images/stack/schedule-calendar.svg';
 import github from 'images/stack/github.svg';
 import docker from 'images/stack/docker.svg';
 import strapi from 'images/stack/strapi.svg';
+import jira from 'images/stack/jira.svg';
+import tiptap from 'images/stack/editor.svg';
 
 import mail from 'images/icons/mail.svg';
 import githubLink from 'images/icons/github.svg';
@@ -156,7 +158,7 @@ export const stackList = [
     image: js
   },
   {
-    title: 'React.js',
+    title: 'React',
     image: react
   },
   {
@@ -184,12 +186,36 @@ export const stackList = [
     image: storybook
   },
   {
-    title: 'Jest',
-    image: jest
+    title: 'React-Admin',
+    image: reactTL
   },
   {
-    title: 'React TL',
-    image: reactTL
+    title: 'Strapi',
+    image: strapi
+  },
+  {
+    title: 'TipTap',
+    image: tiptap
+  },
+  {
+    title: 'Figma',
+    image: figma
+  },
+  {
+    title: 'Docker',
+    image: docker
+  },
+  {
+    title: 'NPM',
+    image: npm
+  },
+  {
+    title: 'GitHub',
+    image: github
+  },
+  {
+    title: 'Jest',
+    image: jest
   },
   {
     title: 'Eslint',
@@ -232,33 +258,17 @@ export const stackList = [
     image: postman
   },
   {
-    title: 'NPM',
-    image: npm
-  },
-  {
-    title: 'Figma',
-    image: figma
-  },
-  {
-    title: 'GitHub',
-    image: github
-  },
-  {
-    title: 'Docker',
-    image: docker
-  },
-  {
-    title: 'Strapi',
-    image: strapi
-  },
-  {
-    title: 'Linear',
-    image: calendar1
-  },
-  {
-    title: 'Kaiten',
-    image: calendar2
+    title: 'Jira',
+    image: jira
   }
+  // {
+  //   title: 'Linear',
+  //   image: calendar1
+  // },
+  // {
+  //   title: 'Kaiten',
+  //   image: calendar2
+  // }
 ];
 
 export const contactList = [
@@ -271,14 +281,14 @@ export const contactList = [
   {
     title: 'gitHub',
     image: githubLink,
-    text: 'ElenaUstimenko',
-    link: 'https://github.com/ElenaUstimenko'
+    text: 'ElenaIartseva',
+    link: 'https://github.com/ElenaIartseva'
   },
   {
     title: 'email',
     image: mail,
-    text: 'ystimenko.e@mail.ru',
-    link: 'mailto:ystimenko.e@mail.ru'
+    text: 'elena.iartseva64@ gmail.com',
+    link: 'mailto:elena.iartseva64@gmail.com'
   },
   {
     title: 'CV',

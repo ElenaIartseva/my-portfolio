@@ -4,7 +4,7 @@ import { initReactI18next } from 'react-i18next';
 const resources = {
   en: {
     translation: {
-      name: 'Elena Ustimenko',
+      name: 'Elena Iartseva',
       profession: 'web developer',
       linkGitHub: 'GitHub Link',
       linkBrowser: 'Browser Link',
@@ -85,7 +85,7 @@ const resources = {
   },
   ru: {
     translation: {
-      name: 'Елена Устименко',
+      name: 'Елена Ярцева',
       profession: 'веб-разработчик',
       linkGitHub: 'Ссылка на GitHub',
       linkBrowser: 'Ссылка на сайт',
