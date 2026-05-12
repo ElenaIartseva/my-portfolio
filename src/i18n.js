@@ -52,6 +52,10 @@ const resources = {
           title: 'Portfolio web-developer',
           description: `The project demonstrates my skills and abilities. On the site it is possible to find information about all my projects and find all the necessary links to contact me`
         },
+        dashboard: {
+          title: 'Dashboard',
+          description: `Dashboard for user data analysis`
+        },
         project2024: {
           title: 'My project 2024',
           description: `Pet-project: The project demonstrates my skills and abilities`
@@ -132,6 +136,10 @@ const resources = {
         portfolio: {
           title: 'Портфолио веб-разработчика',
           description: `Проект демонстрирует мои навыки и способности. На сайте можно найти информацию обо всех моих проектах и найти все необходимые ссылки, чтобы связаться со мной`
+        },
+        dashboard: {
+          title: 'Дашборд',
+          description: `Дашборд для анализа данных пользователей`
         },
         project2024: {
           title: 'Мой проект 2024',

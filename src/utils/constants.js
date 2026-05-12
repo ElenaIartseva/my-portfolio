@@ -7,6 +7,7 @@ import conference from 'images/projects/conference.webp';
 import support from 'images/projects/support.webp';
 import myProject from 'images/projects/my-project.webp';
 import portfolio from 'images/projects/portfolio.webp';
+import dashboard from 'images/projects/dashboard.webp';
 import calendar from 'images/projects/calendar.webp';
 import movies from 'images/projects/movies.webp';
 import movies2 from 'images/projects/movies2.webp';
@@ -96,14 +97,19 @@ export const projectsData = {
     github: 'https://github.com/ElenaUstimenko/test-task-for-CarX-Technologies',
     image: support
   },
-  portfolio: {
+  dashboard: {
     id: 7,
+    stack: ['Next.js, React, TypeScript'],
+    image: dashboard
+  },
+  portfolio: {
+    id: 8,
     stack: ['React, CSS, BEM, Prettier, i18n'],
     github: 'https://github.com/ElenaUstimenko/my-portfolio',
     image: portfolio
   },
   project2024: {
-    id: 8,
+    id: 9,
     stack: [
       'Webpack, React, TypeScript, SCSS, classnames, alias, mixins, i18n, theme switcher, ESLint, Stylelint, Loader, Error Boundary React, Jest, React Testing Library, Storybook'
     ],
@@ -111,13 +117,13 @@ export const projectsData = {
     image: myProject
   },
   calendar: {
-    id: 9,
+    id: 10,
     stack: ['React, TypeScript'],
     github: 'https://github.com/ElenaUstimenko/calendar--light-dark-theme',
     image: calendar
   },
   kinopoiskFrontend: {
-    id: 10,
+    id: 11,
     stack: [
       'HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Postman, Git'
     ],
@@ -125,7 +131,7 @@ export const projectsData = {
     image: movies
   },
   kinopoiskBackend: {
-    id: 11,
+    id: 12,
     stack: [
       'HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Postman, Git'
     ],
@@ -133,19 +139,19 @@ export const projectsData = {
     image: movies2
   },
   instagram: {
-    id: 12,
+    id: 13,
     stack: ['React, Node.js, Express, MongoDB, Postman, Git'],
     github: 'https://github.com/ElenaUstimenko/react-express-mesto-full',
     image: mesto
   },
   landing1: {
-    id: 13,
+    id: 14,
     stack: ['VanillaJS, HTML, CSS, flex, grid, BEM'],
     github: 'https://github.com/ElenaUstimenko/russian-travel',
     image: russianTravel
   },
   landing2: {
-    id: 14,
+    id: 15,
     stack: ['VanillaJS, HTML, CSS, BEM'],
     github: 'https://github.com/ElenaUstimenko/how-to-learn',
     image: learn
