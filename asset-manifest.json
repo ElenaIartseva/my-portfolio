@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.dddeb56c.css",
-    "main.js": "/my-portfolio/static/js/main.c760c186.js",
+    "main.js": "/my-portfolio/static/js/main.fe4488e8.js",
     "static/media/juralight.ttf": "/my-portfolio/static/media/juralight.1325bc12bfd559d655e7.ttf",
     "static/media/russian-travel.webp": "/my-portfolio/static/media/russian-travel.3def702641a378ac6556.webp",
     "static/media/movies.webp": "/my-portfolio/static/media/movies.4bccffb154292c5944dc.webp",
@@ -11,6 +11,7 @@
     "static/media/conference.webp": "/my-portfolio/static/media/conference.1165d90ed943a9a886b2.webp",
     "static/media/my-project2025.webp": "/my-portfolio/static/media/my-project2025.17585a089b8d06754a2a.webp",
     "static/media/juralight.woff2": "/my-portfolio/static/media/juralight.e0115e0da58f20a9750c.woff2",
+    "static/media/dashboard.webp": "/my-portfolio/static/media/dashboard.14ee4e37d578b30f7762.webp",
     "static/media/carx.webp": "/my-portfolio/static/media/carx.9bbd45f559e4f0c57a40.webp",
     "static/media/my-project.webp": "/my-portfolio/static/media/my-project.500ec91231225a3db76e.webp",
     "static/media/portfolio.webp": "/my-portfolio/static/media/portfolio.4de3c61ca35c9e8647f5.webp",
@@ -51,10 +52,10 @@
     "static/media/strapi.svg": "/my-portfolio/static/media/strapi.5124ee0aca141b84b1a7a2ecc324de14.svg",
     "static/media/npm.svg": "/my-portfolio/static/media/npm.8c0606a7c392a7d33d03e67c80d6f40a.svg",
     "main.dddeb56c.css.map": "/my-portfolio/static/css/main.dddeb56c.css.map",
-    "main.c760c186.js.map": "/my-portfolio/static/js/main.c760c186.js.map"
+    "main.fe4488e8.js.map": "/my-portfolio/static/js/main.fe4488e8.js.map"
   },
   "entrypoints": [
     "static/css/main.dddeb56c.css",
-    "static/js/main.c760c186.js"
+    "static/js/main.fe4488e8.js"
   ]
 }
