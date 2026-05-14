@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.dddeb56c.css",
-    "main.js": "/my-portfolio/static/js/main.fe4488e8.js",
+    "main.js": "/my-portfolio/static/js/main.8a16ef4c.js",
     "static/media/juralight.ttf": "/my-portfolio/static/media/juralight.1325bc12bfd559d655e7.ttf",
     "static/media/russian-travel.webp": "/my-portfolio/static/media/russian-travel.3def702641a378ac6556.webp",
     "static/media/movies.webp": "/my-portfolio/static/media/movies.4bccffb154292c5944dc.webp",
@@ -26,7 +26,6 @@
     "static/media/calendar.webp": "/my-portfolio/static/media/calendar.33e3d31ffb9aabce4e90.webp",
     "static/media/github.svg": "/my-portfolio/static/media/github.895050b20cdc3aefa3177ef8508b789b.svg",
     "static/media/react.svg": "/my-portfolio/static/media/react.867e22e5a0394f9e99bb018feec45d06.svg",
-    "static/media/schedule-calendar.svg": "/my-portfolio/static/media/schedule-calendar.192a11e0e1dc252f188c4e433a18d4cf.svg",
     "static/media/docker.svg": "/my-portfolio/static/media/docker.d2c794954faa0ffb3494612fbc85202e.svg",
     "static/media/react-tl.svg": "/my-portfolio/static/media/react-tl.f57b349b4d9df56c9b48c916a8d5adfb.svg",
     "static/media/telegram.svg": "/my-portfolio/static/media/telegram.04cf4804f41145386b50aed7306f8116.svg",
@@ -42,20 +41,20 @@
     "static/media/jira.svg": "/my-portfolio/static/media/jira.70d9cb16897aff9c549d45a33d33901d.svg",
     "static/media/redux.svg": "/my-portfolio/static/media/redux.0a4a6ca2be44339bedb69de15f66d243.svg",
     "static/media/scss.svg": "/my-portfolio/static/media/scss.67cd0525916c4cdea4eb3abd8ae11137.svg",
+    "static/media/cursor.svg": "/my-portfolio/static/media/cursor.57b1ef880707a16475c2f8c3862a51f4.svg",
     "index.html": "/my-portfolio/index.html",
     "static/media/stylelint.svg": "/my-portfolio/static/media/stylelint.4df4492f0c26a6d3f0839021bcbe7cf8.svg",
     "static/media/mail.svg": "/my-portfolio/static/media/mail.55482be50f516892d19c0bf61f60a83a.svg",
     "static/media/eslint.svg": "/my-portfolio/static/media/eslint.82dd492e1ec7a63ad85235b93e406863.svg",
-    "static/media/calendar.svg": "/my-portfolio/static/media/calendar.6b20a163f0a5719b698e38c46b1f390e.svg",
     "static/media/webpack.svg": "/my-portfolio/static/media/webpack.2064de68e0f0042e3cbbda61e8456cbb.svg",
     "static/media/ts.svg": "/my-portfolio/static/media/ts.f20748caf2dac55710ddeed71de0bac4.svg",
     "static/media/strapi.svg": "/my-portfolio/static/media/strapi.5124ee0aca141b84b1a7a2ecc324de14.svg",
     "static/media/npm.svg": "/my-portfolio/static/media/npm.8c0606a7c392a7d33d03e67c80d6f40a.svg",
     "main.dddeb56c.css.map": "/my-portfolio/static/css/main.dddeb56c.css.map",
-    "main.fe4488e8.js.map": "/my-portfolio/static/js/main.fe4488e8.js.map"
+    "main.8a16ef4c.js.map": "/my-portfolio/static/js/main.8a16ef4c.js.map"
   },
   "entrypoints": [
     "static/css/main.dddeb56c.css",
-    "static/js/main.fe4488e8.js"
+    "static/js/main.8a16ef4c.js"
   ]
 }
