@@ -20,25 +20,25 @@ const resources = {
       andOther: 'and other mini projects at',
       stackTitle: 'Stack',
       projectsList: {
-        project2025: {
-          title: 'My project 2025',
-          description: `My code and creativity will be here soon. Project created to show an example of my code`
+        carxOnline: {
+          title: 'Site for Game company',
+          description: `Support and refactoring of the company’s existing website (changing data via admin panel, sending data from form to admin and email)`
         },
         gameSchool: {
           title: 'Site for Game school',
           description: `Website for game development school, with a form of communication with the school by email`
         },
+        carxStore: {
+          title: 'Store',
+          description: `High-traffic site - a store, additionally with the ability to receive technical support and edit documents by the admin panel`
+        },
+        project2025: {
+          title: 'My project 2025',
+          description: `My code and creativity will be here soon. Project created to show an example of my code`
+        },
         gameCompany: {
           title: 'Site for Game company',
           description: `Website site for game company with admin panel to add/change/remove vacancies`
-        },
-        carxOnline: {
-          title: 'Site for Game company',
-          description: `Support and refactoring of the company’s existing website (changing data via admin panel, sending data from form to admin and email)`
-        },
-        carxStoreSupport: {
-          title: 'Site part for Support',
-          description: `Part of the site that helps the user to get technical support for the company’s products. Work in process`
         },
         meetUp: {
           title: 'GameDev MeetUp',
@@ -48,13 +48,13 @@ const resources = {
           title: 'Technical support',
           description: `Personal user account with technical support communication function`
         },
+        dashboard: {
+          title: 'Dashboard',
+          description: `Dashboard for user data analysis, with the ability to view additional information about each user`
+        },
         portfolio: {
           title: 'Portfolio web-developer',
           description: `The project demonstrates my skills and abilities. On the site it is possible to find information about all my projects and find all the necessary links to contact me`
-        },
-        dashboard: {
-          title: 'Dashboard',
-          description: `Dashboard for user data analysis`
         },
         project2024: {
           title: 'My project 2024',
@@ -105,25 +105,25 @@ const resources = {
       andOther: 'и другие мини проекты на',
       stackTitle: 'Стек',
       projectsList: {
-        project2025: {
-          title: 'Мой проект 2025',
-          description: `Скоро здесь появится мой код и творчество. Проект создан, чтобы показать пример моего кода`
+        carxOnline: {
+          title: 'Сайт для игровой компании',
+          description: `Поддержка и рефакторинг существующего сайта компании (изменение данных через админ панель, отправка данных из формы в админку и на email)`
         },
         gameSchool: {
           title: 'Сайт для Школы разработки игр',
           description: `Сайт для школы разработки игр, с формой связи со школой по электронной почте`
         },
+        carxStore: {
+          title: 'Магазин',
+          description: `Высоконагруженный сайт - магазин, дополнительно с возможностью получения технической поддержки и редактирования юр.документов с помощью админ панели`
+        },
+        project2025: {
+          title: 'Мой проект 2025',
+          description: `Скоро здесь появится мой код и творчество. Проект создан, чтобы показать пример моего кода`
+        },
         gameCompany: {
           title: 'Сайт для игровой компании',
           description: `Сайт для игровой компании с админикой для добавления/изменения/удаления вакансий`
-        },
-        carxOnline: {
-          title: 'Сайт для игровой компании',
-          description: `Поддержка и рефакторинг существующего сайта компании (изменение данных через админ панель, отправка данных из формы в админку и на email)`
-        },
-        carxStoreSupport: {
-          title: 'Часть сайта для тех.поддержки',
-          description: `Часть сайта, помогающая пользователю получить техническую поддержку по продуктам компании. Работа в процессе`
         },
         meetUp: {
           title: 'GameDev MeetUp',
@@ -133,13 +133,13 @@ const resources = {
           title: 'Техническая поддержка',
           description: `Личная учётная запись пользователя с функцией связи с технической поддержкой`
         },
+        dashboard: {
+          title: 'Дашборд',
+          description: `Дашборд для анализа данных пользователей, с возможностью посмотреть дополнительную информацию по каждому`
+        },
         portfolio: {
           title: 'Портфолио веб-разработчика',
           description: `Проект демонстрирует мои навыки и способности. На сайте можно найти информацию обо всех моих проектах и найти все необходимые ссылки, чтобы связаться со мной`
-        },
-        dashboard: {
-          title: 'Дашборд',
-          description: `Дашборд для анализа данных пользователей`
         },
         project2024: {
           title: 'Мой проект 2024',

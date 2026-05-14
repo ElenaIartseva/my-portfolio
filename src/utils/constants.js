@@ -34,10 +34,9 @@ import express from 'images/stack/express.png';
 import mongo from 'images/stack/mongo.png';
 import webpack from 'images/stack/webpack.svg';
 import postman from 'images/stack/postman.svg';
+import cursor from 'images/stack/cursor.svg';
 import npm from 'images/stack/npm.svg';
 import figma from 'images/stack/figma.svg';
-import calendar1 from 'images/stack/calendar.svg';
-import calendar2 from 'images/stack/schedule-calendar.svg';
 import github from 'images/stack/github.svg';
 import docker from 'images/stack/docker.svg';
 import strapi from 'images/stack/strapi.svg';
@@ -50,12 +49,13 @@ import telegram from 'images/icons/telegram.svg';
 import cv from 'images/icons/cv.svg';
 
 export const projectsData = {
-  project2025: {
+  carxOnline: {
     id: 0,
-    stack: ['Next, React, TypeScript'],
-    browser: 'https://my-project-2025-ten.vercel.app',
-    github: 'https://github.com/ElenaUstimenko/my-project-2025',
-    image: myProject2025
+    stack: [
+      'frontend: React, TypeScript, Next, CSS-in-JS, backend: PHP, Laravel, admin: Vue, TypeScript'
+    ],
+    browser: 'https://carx-online.com/',
+    image: carx
   },
   gameSchool: {
     id: 1,
@@ -63,27 +63,26 @@ export const projectsData = {
     browser: 'https://xlab-game.com/',
     image: school
   },
-  gameCompany: {
+  carxStore: {
     id: 2,
-    stack: ['React, TypeScript, SCSS, Strapi'],
-    browser: 'https://carx-europe.com/',
-    image: europe
-  },
-  carxOnline: {
-    id: 3,
-    stack: [
-      'frontend: React, TypeScript, Next, CSS-in-JS, backend: PHP, Laravel, admin: Vue, TypeScript'
-    ],
-    browser: 'https://carx-online.com/',
-    image: carx
-  },
-  carxStoreSupport: {
-    id: 4,
     stack: [
       'frontend: React, TypeScript, Next, backend: Java, admin: React Admin'
     ],
-    browser: 'https://carx-store.com/support',
+    browser: 'https://carx-store.com/',
     image: store
+  },
+  project2025: {
+    id: 3,
+    stack: ['Next, React, TypeScript'],
+    browser: 'https://my-project-2025-ten.vercel.app',
+    github: 'https://github.com/ElenaUstimenko/my-project-2025',
+    image: myProject2025
+  },
+  gameCompany: {
+    id: 4,
+    stack: ['React, TypeScript, SCSS, Strapi'],
+    browser: 'https://carx-europe.com/',
+    image: europe
   },
   meetUp: {
     id: 5,
@@ -144,18 +143,18 @@ export const projectsData = {
     github: 'https://github.com/ElenaUstimenko/react-express-mesto-full',
     image: mesto
   },
-  landing1: {
-    id: 14,
-    stack: ['VanillaJS, HTML, CSS, flex, grid, BEM'],
-    github: 'https://github.com/ElenaUstimenko/russian-travel',
-    image: russianTravel
-  },
-  landing2: {
-    id: 15,
-    stack: ['VanillaJS, HTML, CSS, BEM'],
-    github: 'https://github.com/ElenaUstimenko/how-to-learn',
-    image: learn
-  }
+  // landing1: {
+  //   id: 14,
+  //   stack: ['VanillaJS, HTML, CSS, flex, grid, BEM'],
+  //   github: 'https://github.com/ElenaUstimenko/russian-travel',
+  //   image: russianTravel
+  // },
+  // landing2: {
+  //   id: 15,
+  //   stack: ['VanillaJS, HTML, CSS, BEM'],
+  //   github: 'https://github.com/ElenaUstimenko/how-to-learn',
+  //   image: learn
+  // }
 };
 
 export const stackList = [
@@ -264,17 +263,13 @@ export const stackList = [
     image: postman
   },
   {
+    title: 'Cursor',
+    image: cursor
+  },
+  {
     title: 'Jira',
     image: jira
   }
-  // {
-  //   title: 'Linear',
-  //   image: calendar1
-  // },
-  // {
-  //   title: 'Kaiten',
-  //   image: calendar2
-  // }
 ];
 
 export const contactList = [
