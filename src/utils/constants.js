@@ -12,8 +12,8 @@ import calendar from 'images/projects/calendar.webp';
 import movies from 'images/projects/movies.webp';
 import movies2 from 'images/projects/movies2.webp';
 import mesto from 'images/projects/mesto.webp';
-import russianTravel from 'images/projects/russian-travel.webp';
-import learn from 'images/projects/learn.webp';
+// import russianTravel from 'images/projects/russian-travel.webp';
+// import learn from 'images/projects/learn.webp';
 
 import js from 'images/stack/js.svg';
 import react from 'images/stack/react.svg';
@@ -142,7 +142,7 @@ export const projectsData = {
     stack: ['React, Node.js, Express, MongoDB, Postman, Git'],
     github: 'https://github.com/ElenaUstimenko/react-express-mesto-full',
     image: mesto
-  },
+  }
   // landing1: {
   //   id: 14,
   //   stack: ['VanillaJS, HTML, CSS, flex, grid, BEM'],
@@ -295,6 +295,6 @@ export const contactList = [
     title: 'CV',
     image: cv,
     text: 'CV',
-    link: 'https://drive.google.com/file/d/15tJQCAF3HuZ26Pq7Q53GBI3QFHPc2Cwk/view?usp=drive_link'
+    link: 'https://drive.google.com/file/d/1K3b_Mk7onY-KxTrsd0EaAyRk73iOjEVs/view?usp=drive_link'
   }
 ];
