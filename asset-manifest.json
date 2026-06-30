@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.dddeb56c.css",
-    "main.js": "/my-portfolio/static/js/main.8a16ef4c.js",
+    "main.js": "/my-portfolio/static/js/main.2b5190f0.js",
     "static/media/juralight.ttf": "/my-portfolio/static/media/juralight.1325bc12bfd559d655e7.ttf",
-    "static/media/russian-travel.webp": "/my-portfolio/static/media/russian-travel.3def702641a378ac6556.webp",
     "static/media/movies.webp": "/my-portfolio/static/media/movies.4bccffb154292c5944dc.webp",
     "static/media/school.webp": "/my-portfolio/static/media/school.9e4a3f5ec5d4f0670653.webp",
     "static/media/juralight.woff": "/my-portfolio/static/media/juralight.44b90725ab9c57ddb020.woff",
@@ -18,7 +17,6 @@
     "static/media/store.webp": "/my-portfolio/static/media/store.6f9019d43ec39cec7006.webp",
     "static/media/mesto.webp": "/my-portfolio/static/media/mesto.e9fd5df2e751babbecb3.webp",
     "static/media/EU.webp": "/my-portfolio/static/media/EU.5975ca9cbb5a259b9933.webp",
-    "static/media/learn.webp": "/my-portfolio/static/media/learn.c5e87c368ee1be4678c2.webp",
     "static/media/support.webp": "/my-portfolio/static/media/support.b6fe1afd0c5209b17f90.webp",
     "static/media/express.png": "/my-portfolio/static/media/express.14bef7ddfed77510e0a2.png",
     "static/media/css.png": "/my-portfolio/static/media/css.80dd7bf1cb24c1c3b1c1.png",
@@ -51,10 +49,10 @@
     "static/media/strapi.svg": "/my-portfolio/static/media/strapi.5124ee0aca141b84b1a7a2ecc324de14.svg",
     "static/media/npm.svg": "/my-portfolio/static/media/npm.8c0606a7c392a7d33d03e67c80d6f40a.svg",
     "main.dddeb56c.css.map": "/my-portfolio/static/css/main.dddeb56c.css.map",
-    "main.8a16ef4c.js.map": "/my-portfolio/static/js/main.8a16ef4c.js.map"
+    "main.2b5190f0.js.map": "/my-portfolio/static/js/main.2b5190f0.js.map"
   },
   "entrypoints": [
     "static/css/main.dddeb56c.css",
-    "static/js/main.8a16ef4c.js"
+    "static/js/main.2b5190f0.js"
   ]
 }
