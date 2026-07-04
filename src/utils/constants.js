@@ -75,7 +75,7 @@ export const projectsData = {
     id: 3,
     stack: ['Next, React, TypeScript'],
     browser: 'https://my-project-2025-ten.vercel.app',
-    github: 'https://github.com/ElenaUstimenko/my-project-2025',
+    github: 'https://github.com/ElenaIartseva/my-project-2025',
     image: myProject2025
   },
   gameCompany: {
@@ -93,7 +93,7 @@ export const projectsData = {
   support: {
     id: 6,
     stack: ['React, SCSS, classnames'],
-    github: 'https://github.com/ElenaUstimenko/test-task-for-CarX-Technologies',
+    github: 'https://github.com/ElenaIartseva/test-task-for-CarX-Technologies',
     image: support
   },
   dashboard: {
@@ -104,7 +104,7 @@ export const projectsData = {
   portfolio: {
     id: 8,
     stack: ['React, CSS, BEM, Prettier, i18n'],
-    github: 'https://github.com/ElenaUstimenko/my-portfolio',
+    github: 'https://github.com/ElenaIartseva/my-portfolio',
     image: portfolio
   },
   project2024: {
@@ -112,13 +112,13 @@ export const projectsData = {
     stack: [
       'Webpack, React, TypeScript, SCSS, classnames, alias, mixins, i18n, theme switcher, ESLint, Stylelint, Loader, Error Boundary React, Jest, React Testing Library, Storybook'
     ],
-    github: 'https://github.com/ElenaUstimenko/my-project',
+    github: 'https://github.com/ElenaIartseva/my-project',
     image: myProject
   },
   calendar: {
     id: 10,
     stack: ['React, TypeScript'],
-    github: 'https://github.com/ElenaUstimenko/calendar--light-dark-theme',
+    github: 'https://github.com/ElenaIartseva/calendar--light-dark-theme',
     image: calendar
   },
   kinopoiskFrontend: {
@@ -126,7 +126,7 @@ export const projectsData = {
     stack: [
       'HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Postman, Git'
     ],
-    github: 'https://github.com/ElenaUstimenko/movies-explorer-frontend.git',
+    github: 'https://github.com/ElenaIartseva/movies-explorer-frontend.git',
     image: movies
   },
   kinopoiskBackend: {
@@ -134,25 +134,25 @@ export const projectsData = {
     stack: [
       'HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Postman, Git'
     ],
-    github: 'https://github.com/ElenaUstimenko/movies-explorer-api.git',
+    github: 'https://github.com/ElenaIartseva/movies-explorer-api.git',
     image: movies2
   },
   instagram: {
     id: 13,
     stack: ['React, Node.js, Express, MongoDB, Postman, Git'],
-    github: 'https://github.com/ElenaUstimenko/react-express-mesto-full',
+    github: 'https://github.com/ElenaIartseva/react-express-mesto-full',
     image: mesto
   }
   // landing1: {
   //   id: 14,
   //   stack: ['VanillaJS, HTML, CSS, flex, grid, BEM'],
-  //   github: 'https://github.com/ElenaUstimenko/russian-travel',
+  //   github: 'https://github.com/ElenaIartseva/russian-travel',
   //   image: russianTravel
   // },
   // landing2: {
   //   id: 15,
   //   stack: ['VanillaJS, HTML, CSS, BEM'],
-  //   github: 'https://github.com/ElenaUstimenko/how-to-learn',
+  //   github: 'https://github.com/ElenaIartseva/how-to-learn',
   //   image: learn
   // }
 };
