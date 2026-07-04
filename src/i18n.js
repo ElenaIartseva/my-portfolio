@@ -6,6 +6,7 @@ const resources = {
     translation: {
       name: 'Elena Iartseva',
       profession: 'web developer',
+      mainLink: 'Please click this link to go to the new website',
       linkGitHub: 'GitHub Link',
       linkBrowser: 'Browser Link',
       addedSoon: 'Will be added soon',
@@ -91,6 +92,8 @@ const resources = {
     translation: {
       name: 'Елена Ярцева',
       profession: 'веб-разработчик',
+      mainLink:
+        'Пожалуйста, нажмите на эту ссылку, чтобы перейти на новый сайт',
       linkGitHub: 'Ссылка на GitHub',
       linkBrowser: 'Ссылка на сайт',
       addedSoon: 'Будет добавлено скоро',

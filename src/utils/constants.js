@@ -99,6 +99,7 @@ export const projectsData = {
   dashboard: {
     id: 7,
     stack: ['Next.js, React, TypeScript'],
+    github: 'https://github.com/ElenaIartseva/dashboard',
     image: dashboard
   },
   portfolio: {

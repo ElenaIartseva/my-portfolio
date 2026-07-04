@@ -5,6 +5,7 @@ import Cube from '../Cube/Cube';
 import Portfolio from '../Portfolio/Portfolio';
 import Stack from '../Stack/Stack';
 import Contacts from '../Contacts/Contacts';
+import MainLink from '../MainLink/MainLink';
 import './Main.css';
 
 const Main = () => {
@@ -28,6 +29,7 @@ const Main = () => {
       <Stack stackRef={stackRef} />
       <Portfolio projectsRef={projectsRef} />
       <Contacts contactRef={contactRef} />
+      <MainLink />
     </>
   );
 };
